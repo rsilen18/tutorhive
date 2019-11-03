@@ -33,7 +33,7 @@ header p {
 .jumbotron {
 	display: flex;
 	align-items: center;
-	background-image: url('https://i.ytimg.com/vi/4D5bR7MYQWs/maxresdefault.jpg');
+	background-image: url('http://uwomathtutor.com/wp-content/uploads/2018/08/cropped-Blocks-Mathematics-wallpaper.jpg');
 	background-size: cover;
 	color: #FFFFFF;
 	height: 500px;
@@ -64,13 +64,13 @@ section .row img {
 .btn.btn-primary {
 	border-radius: 2px;
 	border: 0px;
-	color: #FBD1D5;
+	color: #0099ff;
 	text-shadow: none;
 	background-color: #FFFFFF;
 }
 
 .btn-secondary {
-	background-color: #E*DFE0;
+	background-color: #0099ff;
 	color: #FFFFFF;
 	margin: 0 0 30px;
 }
